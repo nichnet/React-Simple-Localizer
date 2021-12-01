@@ -1,6 +1,13 @@
 
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
+package.json
+.prettierrc
+.npmignore
+.eslinitignore
+.editorconfig
+.eslintrc
+
 # dependencies
 node_modules
 

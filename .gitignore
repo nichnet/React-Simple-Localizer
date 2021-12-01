@@ -7,6 +7,7 @@ package.json
 .eslintignore
 .editorconfig
 .eslintrc
+.travis.yml
 
 # dependencies
 node_modules

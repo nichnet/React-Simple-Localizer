@@ -1,4 +1,4 @@
-# Simple Localizer
+# React Simple Localizer
 
 
 ## Simple Language Localizer for React

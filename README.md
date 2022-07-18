@@ -1,7 +1,6 @@
 # React Simple Localizer
 
 
-## Simple Language Localizer for React
 ### Installation
 ```
 npm install simple-localizer

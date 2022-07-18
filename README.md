@@ -6,7 +6,7 @@
 npm install simple-localizer
 ``` 
 
-## Implementing **Localizer** in your Project
+## Implementing in your Project
  
 ### Wrapper
 Wrap any portion of your React project with the **_Localizer_** component. You can set the default language, with the **_languages_** property, **_showKeys_** will return the provided key if a value is not found, and **_debug_** will print messages to the developer console. This component can be at the top level of your React DOM like so:
